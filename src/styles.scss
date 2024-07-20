@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNysv7q39Klrmt5YtdRVrzzcep7qYWXL-EQ&s');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

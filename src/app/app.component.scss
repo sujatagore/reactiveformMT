@@ -1,0 +1,31 @@
+.eaxmple-full-width{
+    width: 100%;
+}
+
+.ng-submitted{
+    .form-control .ng-invalid{
+        border: 1px solid red !important;
+    }
+}
+
+.ng-invalid .ng-touched{
+    border: 0 !important;
+}
+
+input[type="password"]{
+    position: relative;
+}
+
+.fas{
+    position: absolute;
+    right: 10px;
+    top: 25%;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.card{
+    // background-image: linear-gradient(45deg, rgb(181, 248, 80), rgb(50, 170, 210));
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+}
